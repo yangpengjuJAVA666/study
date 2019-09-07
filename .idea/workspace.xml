@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72fe1d90-3502-4485-805e-8b249fde03c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../homework/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/src/answer/ALinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/src/answer/Balanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/src/answer/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/src/answer/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/StudentBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/BearsDen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/DemoGame1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/DemoGame2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/DemoGame3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/DemoGame4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/Directions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/EmptyLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/Peach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/PeachGrove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/PeachHunter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/PeachPit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/PeachThief.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/PeachesGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/PitFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/RGB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/SmartyPants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer2/World.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer4/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer4/MyImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer4/MyImage2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer4/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer4/TestImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0811/src/answer4/TestImage2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework0816/src/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/src/main/java/crm/sdk/core/auth/token/AccessToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/src/main/java/crm/sdk/core/auth/token/ApiAuthInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/src/main/java/crm/sdk/core/auth/token/BasicAuthAccessToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/src/main/java/crm/sdk/core/auth/token/OAuthAccessToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/src/main/java/crm/sdk/core/bean/SdkApiContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/src/main/java/crm/sdk/core/config/ConnectionProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/src/main/java/crm/sdk/core/exception/SdkApiCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/src/main/java/crm/sdk/core/exception/SdkApiException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/src/main/java/crm/sdk/core/factory/DefaultConnectorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/src/main/java/crm/sdk/core/factory/impl/ConnectorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/target/classes/crm/sdk/core/auth/token/AccessToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/target/classes/crm/sdk/core/auth/token/ApiAuthInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/target/classes/crm/sdk/core/auth/token/BasicAuthAccessToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/target/classes/crm/sdk/core/auth/token/OAuthAccessToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/target/classes/crm/sdk/core/bean/SdkApiContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/target/classes/crm/sdk/core/config/ConnectionProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/target/classes/crm/sdk/core/exception/SdkApiCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/target/classes/crm/sdk/core/exception/SdkApiException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/target/classes/crm/sdk/core/factory/DefaultConnectorFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-core/target/classes/crm/sdk/core/factory/impl/ConnectorFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/src/main/java/crm/connector/sdk/ma/api/auth/token/MaAccessToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/src/main/java/crm/connector/sdk/ma/api/client/MaAbstractApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/src/main/java/crm/connector/sdk/ma/api/client/impl/MaSyncApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/src/main/java/crm/connector/sdk/ma/api/client/protocal/MaSyncApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/src/main/java/crm/connector/sdk/ma/api/converter/MaApiJackson2HttpMessageConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/src/main/java/crm/connector/sdk/ma/api/domain/json/PointChangeResponseData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/src/main/java/crm/connector/sdk/ma/api/handler/MaResponseErrorHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/src/main/java/crm/connector/sdk/ma/api/request/MaApiRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/src/main/java/crm/connector/sdk/ma/api/request/sync/MaSyncPointChangeRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/src/main/java/crm/connector/sdk/ma/api/response/MaApiResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/src/main/java/crm/connector/sdk/ma/api/response/sync/MaSyncPointChangeResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/src/main/java/crm/connector/sdk/ma/config/MaConnectorConfigure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/src/main/java/crm/connector/sdk/ma/constant/MaApiUrlDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/src/main/java/crm/connector/sdk/ma/exception/MaApiCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/src/main/java/crm/connector/sdk/ma/exception/MaApiException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/src/test/java/crm/connector/sdk/ma/TesterApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/src/test/java/crm/connector/sdk/ma/sync/SyncPointChangeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/classes/crm/connector/sdk/ma/api/auth/token/MaAccessToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/classes/crm/connector/sdk/ma/api/client/MaAbstractApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/classes/crm/connector/sdk/ma/api/client/impl/MaSyncApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/classes/crm/connector/sdk/ma/api/client/protocal/MaSyncApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/classes/crm/connector/sdk/ma/api/converter/MaApiJackson2HttpMessageConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/classes/crm/connector/sdk/ma/api/domain/json/PointChangeResponseData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/classes/crm/connector/sdk/ma/api/handler/MaResponseErrorHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/classes/crm/connector/sdk/ma/api/request/MaApiRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/classes/crm/connector/sdk/ma/api/request/sync/MaSyncPointChangeRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/classes/crm/connector/sdk/ma/api/response/MaApiResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/classes/crm/connector/sdk/ma/api/response/sync/MaSyncPointChangeResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/classes/crm/connector/sdk/ma/config/MaConnectorConfigure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/classes/crm/connector/sdk/ma/constant/MaApiUrlDef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/classes/crm/connector/sdk/ma/exception/MaApiCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/classes/crm/connector/sdk/ma/exception/MaApiException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/sdk-ma-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/test-classes/crm/connector/sdk/ma/TesterApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-ma/target/test-classes/crm/connector/sdk/ma/sync/SyncPointChangeTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/auth/token/ComponentAccessToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/auth/token/ComponentAuthInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/auth/token/WeChatAccessToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/auth/token/WeChatAuthInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/WeChatAbstractApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/impl/SocialPlusUserApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/impl/WeChatAccessTokenApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/impl/WeChatAuthApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/impl/WeChatCardApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/impl/WeChatCouponApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/impl/WeChatCustomServiceApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/impl/WeChatGetAccessTokenByCodeApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/impl/WeChatJsSignatureApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/impl/WeChatQrApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/impl/WeChatSyncApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/impl/WeChatTagApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/impl/WeChatTemplateMessageApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/impl/WeChatUploadApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/impl/WeChatUserApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/protocal/SocialPlusUserApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/protocal/WeChatAccessTokenApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/protocal/WeChatAuthApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/protocal/WeChatCardApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/protocal/WeChatCouponApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/protocal/WeChatCustomServiceApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/protocal/WeChatGetAccessTokenByCodeApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/protocal/WeChatJsSignatureApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/protocal/WeChatQrApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/protocal/WeChatSyncApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/protocal/WeChatTagApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/protocal/WeChatTemplateMessageApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/protocal/WeChatUploadApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/client/protocal/WeChatUserApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/converter/WeChatApiJackson2HttpMessageConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/domain/json/ActionInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/domain/json/Articles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/domain/json/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/domain/json/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/domain/json/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/domain/json/Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/domain/json/Miniprogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/domain/json/News.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/domain/json/NotifyOptional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/domain/json/Scene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/domain/json/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/domain/json/WxCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/handler/WeChatResponseErrorHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/WeChatApiRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/accesstoken/WeChatGetAccessTokenByCodeRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/auth/accesstoken/ComponentAccessTokenRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/auth/authorization/GetAuthorizerInfoRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/auth/preauthcode/PreAuthCodeRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/card/WeChatCardCreateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/card/WeChatCardDeleteRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/card/WeChatCardModifyStockRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/card/WeChatCardUpdateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/card/json/CardAdvancedInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/card/json/CardBaseInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/card/json/CardGroupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/coupon/WeChatCouponConsumeRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/coupon/WeChatCouponQueryRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/customservice/SendMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/customservice/WeChatSendCouponMsgRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/customservice/WeChatSendImageMsgRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/customservice/WeChatSendPicTextMsgRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/customservice/WeChatSendTextMsgRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/qrcode/WeChatQrCreateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/shop/WeChatShopListRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/signature/WeChatGetSignatureRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/socialplus/SocialUserQueryRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/sync/UpdateUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/sync/WeChatUploadPhotoRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/templatemessage/WeChatTemplateMessageSendRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/upload/AbstractWeChatUploadRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/upload/WeChatUploadTempMediaRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/user/WeChatActiveCardRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/user/WeChatUserListRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/request/user/WeChatUserQueryRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/WeChatApiResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/accesstoken/WeChatGetAccessTokenByCodeResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/auth/accesstoken/ComponentAccessTokenResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/auth/authorization/AuthorizationInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/auth/authorization/AuthorizerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/auth/authorization/BussinessInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/auth/authorization/FuncscopeCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/auth/authorization/GetAuthorizerInfoResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/auth/authorization/GetAuthorizerTypeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/auth/preauthcode/PreAuthCodeResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/card/WeChatCardCreateResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/card/WeChatCardDeleteResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/card/WeChatCardModifyStockResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/card/WeChatCardUpdateResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/coupon/WeChatCouponConsumeResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/coupon/WeChatCouponQueryResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/customservice/CustomServiceResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/qrcode/WeChatQrCreateResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/signature/WeChatGetSignatureResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/socialplus/SocialUserQueryResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/sync/UpdateUserResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/sync/UploadPhotoResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/tags/WeChatTagListResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/templatemessage/WeChatTemplateMessageResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/token/WeChatTokenResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/upload/WeChatUploadTempMediaResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/user/CustomFieldInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/user/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/user/WeChatActiveCardResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/user/WeChatUserListResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/api/response/user/WeChatUserQueryResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/config/WeChatConnectorConfigure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/constant/WeChatApiAuthDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/constant/WeChatApiMeta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/constant/WeChatApiParmaDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/constant/WeChatApiUrlDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/constant/WeChatQrDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/constant/WeChatSdkDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/exception/WeChatApiCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/main/java/crm/connector/sdk/wechat/exception/WeChatApiException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/test/java/crm/connector/sdk/wechat/TesterApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/test/java/crm/connector/sdk/wechat/sync/UpdateUserTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/test/java/crm/connector/sdk/wechat/templatemessage/WeChatRetryTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/test/java/crm/connector/sdk/wechat/templatemessage/WeChatTemplateMessageTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/test/java/crm/connector/sdk/wechat/token/WeChatTokenTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/test/java/crm/connector/sdk/wechat/upload/UploadFileTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/src/test/resources/com/example/yang/config/connector.wechat.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/META-INF/sdk-wechat.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/auth/token/ComponentAccessToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/auth/token/ComponentAuthInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/auth/token/WeChatAccessToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/auth/token/WeChatAuthInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/WeChatAbstractApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/impl/SocialPlusUserApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/impl/WeChatAccessTokenApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/impl/WeChatAuthApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/impl/WeChatCouponApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/impl/WeChatCustomServiceApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/impl/WeChatGetAccessTokenByCodeApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/impl/WeChatJsSignatureApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/impl/WeChatQrApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/impl/WeChatSyncApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/impl/WeChatTemplateMessageApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/impl/WeChatUploadApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/impl/WeChatUserApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/protocal/SocialPlusUserApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/protocal/WeChatAccessTokenApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/protocal/WeChatAuthApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/protocal/WeChatCouponApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/protocal/WeChatCustomServiceApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/protocal/WeChatGetAccessTokenByCodeApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/protocal/WeChatJsSignatureApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/protocal/WeChatQrApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/protocal/WeChatSyncApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/protocal/WeChatTemplateMessageApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/protocal/WeChatUploadApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/client/protocal/WeChatUserApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/converter/WeChatApiJackson2HttpMessageConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/domain/json/ActionInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/domain/json/Articles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/domain/json/Card.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/domain/json/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/domain/json/Image.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/domain/json/Keyword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/domain/json/Miniprogram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/domain/json/News.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/domain/json/NotifyOptional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/domain/json/Scene.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/domain/json/Text.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/domain/json/WxCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/handler/WeChatResponseErrorHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/WeChatApiRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/accesstoken/WeChatGetAccessTokenByCodeRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/auth/accesstoken/ComponentAccessTokenRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/auth/authorization/GetAuthorizerInfoRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/auth/preauthcode/PreAuthCodeRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/coupon/WeChatCouponConsumeRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/coupon/WeChatCouponQueryRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/customservice/SendMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/customservice/WeChatSendCouponMsgRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/customservice/WeChatSendImageMsgRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/customservice/WeChatSendPicTextMsgRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/customservice/WeChatSendTextMsgRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/qrcode/WeChatGetQrRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/signature/WeChatGetSignatureRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/socialplus/SocialUserQueryRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/sync/UpdateUserRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/sync/WeChatUploadPhotoRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/templatemessage/WeChatTemplateMessageSendRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/upload/AbstractWeChatUploadRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/upload/WeChatUploadTempMediaRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/user/WeChatActiveCardRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/request/user/WeChatUserQueryRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/WeChatApiResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/accesstoken/WeChatGetAccessTokenByCodeResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/auth/accesstoken/ComponentAccessTokenResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/auth/authorization/AuthorizationInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/auth/authorization/AuthorizerInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/auth/authorization/BussinessInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/auth/authorization/FuncscopeCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/auth/authorization/GetAuthorizerInfoResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/auth/authorization/GetAuthorizerTypeInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/auth/preauthcode/PreAuthCodeResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/coupon/WeChatCouponConsumeResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/coupon/WeChatCouponQueryResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/customservice/CustomServiceResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/qrcode/WeChatGetQrResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/signature/WeChatGetSignatureResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/socialplus/SocialUserQueryResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/sync/UpdateUserResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/sync/UploadPhotoResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/templatemessage/WeChatTemplateMessageResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/token/WeChatTokenResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/upload/WeChatUploadTempMediaResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/user/CustomFieldInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/user/UserInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/user/WeChatActiveCardResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/api/response/user/WeChatUserQueryResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/config/WeChatConnectorConfigure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/constant/WeChatApiAuthDef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/constant/WeChatApiMeta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/constant/WeChatApiUrlDef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/constant/WeChatSdkDef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/exception/WeChatApiCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/classes/crm/connector/sdk/wechat/exception/WeChatApiException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/sdk-wechat-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/test-classes/config/connector.wechat.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/test-classes/crm/connector/sdk/wechat/TesterApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/test-classes/crm/connector/sdk/wechat/sync/UpdateUserTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/test-classes/crm/connector/sdk/wechat/templatemessage/WeChatRetryTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/test-classes/crm/connector/sdk/wechat/templatemessage/WeChatTemplateMessageTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/test-classes/crm/connector/sdk/wechat/token/WeChatTokenTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-wechat/target/test-classes/crm/connector/sdk/wechat/upload/UploadFileTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-yang/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-yang/src/main/java/com/example/yang/api/client/MaAbstractApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-yang/src/main/java/com/example/yang/api/client/impl/MaSyncApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-yang/src/main/java/com/example/yang/api/client/protocal/MaSyncApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-yang/src/main/java/com/example/yang/api/converter/MaApiJackson2HttpMessageConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-yang/src/main/java/com/example/yang/api/domain/json/PointChangeResponseData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-yang/src/main/java/com/example/yang/api/handler/MaResponseErrorHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-yang/src/main/java/com/example/yang/api/request/YangApiRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-yang/src/main/java/com/example/yang/api/request/sync/MaSyncPointChangeRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-yang/src/main/java/com/example/yang/api/response/YangApiResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-yang/src/main/java/com/example/yang/api/response/sync/MaSyncPointChangeResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-yang/src/main/java/com/example/yang/config/MaConnectorConfigure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-yang/src/main/java/com/example/yang/constant/MaApiUrlDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-yang/src/main/java/com/example/yang/exception/MaApiCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/sdk/sdk-yang/src/main/java/com/example/yang/exception/MaApiException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpstudy/test/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java8/src/com/example/aaa/OrderDailyReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java8/src/com/example/aaa/PeriodReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jeewms/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jeewms/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jeewms/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security/app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security/broswer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security/core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security/demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security/demo/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security/demo/src/main/java/com/security/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security/demo/src/main/java/com/security/SHA1Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security/demo/src/main/java/com/security/WeChatMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security/demo/src/main/java/com/security/XmlMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security/demo/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fashion/helloworld/MessageProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fashion/helloworld/MessageRender.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fashion/helloworld/HelloWorldMessageProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fashion/helloworld/HelloWorldMessageRender.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fashion/helloworld/HelloWorldErrorMessageRender.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fashion/helloworld/HelloWorldDecoupled.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="6" selection-start-line="6" selection-end-line="22" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fashion/helloworld/MessageSupportFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="54" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/hello.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="38" selection-end-line="1" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fashion/helloworld/HelloWorldHtmlMessageProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" selection-start-line="6" selection-end-line="11" />
+              <folding>
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>Y:\ideaWorkspace\study\src\main\java\fashion\helloworld</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/fashion/helloword/MessageProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fashion/helloword/HelloWorldMessageProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fashion/helloword/HelloWorldHtmlMessageProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fashion/helloword/MessageRender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fashion/helloword/HelloWorldMessageRender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fashion/helloword/HelloWorldErrorMessageRender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fashion/helloword/HelloWorldDecoupled.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fashion/helloword/MessageSupportFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/hello.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="745" />
+    <option name="y" value="70" />
+    <option name="width" value="1440" />
+    <option name="height" value="865" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fashion.helloword" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloWorldDecoupled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fashion.helloworld.HelloWorldDecoupled" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fashion.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorldDecoupled" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72fe1d90-3502-4485-805e-8b249fde03c1" name="Default Changelist" comment="" />
+      <created>1567832693572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567832693572</updated>
+      <workItem from="1567832700279" duration="4092000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4092000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24664879" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="MyBatis Log" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28045326" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.27903682" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="RestServices" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/fashion/helloworld/MessageSupportFactory.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Class.forName(props.getProperty(&quot;render.class&quot;)).newInstance()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>props.getProperty(&quot;provider.class&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fashion/helloworld/HelloWorldMessageProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fashion/helloworld/HelloWorldHtmlMessageProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="11" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fashion/helloworld/MessageRender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fashion/helloworld/MessageProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fashion/helloworld/HelloWorldErrorMessageRender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fashion/helloworld/HelloWorldMessageRender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hello.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="38" selection-end-line="1" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fashion/helloworld/MessageSupportFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="54" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fashion/helloworld/HelloWorldDecoupled.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" selection-start-line="6" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
